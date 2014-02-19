@@ -1,0 +1,349 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"cust",
+				"cust"
+			],
+			[
+				"cus",
+				"customer"
+			],
+			[
+				"nb",
+				"nbCust"
+			],
+			[
+				"n",
+				"nbCust"
+			],
+			[
+				"art",
+				"art_likes"
+			],
+			[
+				"customer",
+				"Customer"
+			],
+			[
+				"cu",
+				"Customer"
+			],
+			[
+				"ge",
+				"get"
+			],
+			[
+				"pro",
+				"prodScal"
+			],
+			[
+				"norm",
+				"norme2"
+			],
+			[
+				"re",
+				"return"
+			],
+			[
+				"out",
+				"outBR"
+			],
+			[
+				"u2",
+				"u2Likes"
+			],
+			[
+				"u1",
+				"u1NB"
+			],
+			[
+				"a",
+				"artwork"
+			],
+			[
+				"ar",
+				"artwork"
+			],
+			[
+				"u",
+				"uLike"
+			],
+			[
+				"Li",
+				"likes"
+			],
+			[
+				"ou",
+				"outBR"
+			],
+			[
+				"f",
+				"fetch"
+			],
+			[
+				"u2Li",
+				"u2Like"
+			],
+			[
+				"cl",
+				"clock"
+			],
+			[
+				"res",
+				"result"
+			],
+			[
+				"app",
+				"append"
+			],
+			[
+				"len",
+				"lengthM"
+			],
+			[
+				"pr",
+				"pprint"
+			],
+			[
+				"def",
+				"def	Function"
+			],
+			[
+				"lo",
+				"log"
+			],
+			[
+				"req",
+				"req_log"
+			],
+			[
+				"de",
+				"def	Function"
+			],
+			[
+				"Ca",
+				"Crack"
+			],
+			[
+				"Ba",
+				"Baiser"
+			],
+			[
+				"Gran",
+				"Grandes"
+			],
+			[
+				"L",
+				"Levant"
+			],
+			[
+				"custom",
+				"customers"
+			],
+			[
+				"p",
+				"put"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				"pa",
+				"Package Control: List Packages"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 400.0
+	},
+	"console":
+	{
+		"height": 125.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/Rémi/AppData/Roaming/Sublime Text 2/Packages/Default/Default (Windows).sublime-keymap",
+		"/C/Users/Rémi/AppData/Roaming/Sublime Text 2/Packages/User/Default (Windows).sublime-keymap",
+		"/C/Users/Rémi/AppData/Roaming/Sublime Text 2/Packages/Default/Preferences.sublime-settings",
+		"/C/DEV/remouille-python/main.py",
+		"/C/DEV/remouille-python/dataModel.py",
+		"/C/DEV/remouille-python/tools.py",
+		"/C/DEV/remouille-python/app.yaml",
+		"/C/DEV/remouille-python/populate.py",
+		"/C/Windows/System32/drivers/etc/hosts",
+		"/C/wamp/bin/apache/Apache2.4.4/conf/extra/httpd-vhosts.conf",
+		"/C/wamp/bin/apache/Apache2.4.4/conf/httpd.conf",
+		"/C/wamp/bin/php/php5.4.12/php.ini",
+		"/C/DEV/remouille-python/index.html",
+		"/C/wamp/www/test/index.html",
+		"/C/DEV/remouille-python/js/vendor/bootstrap.js",
+		"/C/DEV/remouille-python/datamodel.py",
+		"/C/DEV/remouille-python/__init__.py",
+		"/C/DEV/remouille-python/functions.py",
+		"/C/DEV/remouille-python/model.py",
+		"/C/DEV/engineapp/app.yaml",
+		"/C/Program Files (x86)/Google/google_appengine/dev_appserver.py",
+		"/C/Users/Rémi/Documents/GitHub/PYTHON/remouille-python/app.yaml",
+		"/C/Users/Rémi/Documents/GitHub/PYTHON/remouille-python/main.py",
+		"/C/DEV/engineapp/main.py",
+		"/C/Users/Rémi/Documents/GitHub/PYTHON/engineapp_test/main.py",
+		"/C/Users/Rémi/AppData/Roaming/Sublime Text 2/Packages/Emmet/Default (Windows).sublime-keymap",
+		"/C/Users/Rémi/Desktop/test.htm",
+		"/C/wamp/www/popims/sendcontact.php",
+		"/C/wamp/www/popims/info.php",
+		"/C/Users/Rémi/Documents/Logiciels/conf/httpd-vhosts.conf",
+		"/C/wamp/www/NewCMS/composer.lock",
+		"/C/wamp/www/NewCMS/app/config/app.php",
+		"/C/Program Files/Sublime Text 2/sublime_text.exe"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"127",
+			"virtua",
+			"virtu",
+			"ID",
+			"self.",
+			"illo",
+			"vero",
+			"ul",
+			"selec",
+			"Nisi",
+			"match",
+			"tag",
+			"ctrl+D",
+			"Lorem",
+			"\"></",
+			"autem"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"inde",
+				"index.html"
+			],
+			[
+				".h",
+				"public/.htaccess"
+			],
+			[
+				"app",
+				"app/config/app.php"
+			],
+			[
+				"to",
+				"TODO.txt"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 340.0,
+	"status_bar_visible": true
+}
