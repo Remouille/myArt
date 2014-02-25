@@ -5,8 +5,13 @@ class Like extends Eloquent {
 
 	public static $rules = array();
 	
-	public function artworks()
+	public function artwork()
 	{
-		return $this->hasMany('Artwork');
+		return $this->belongsTo('Artwork')->first();
+	}
+
+	public function customer()
+	{
+		return $this->belongsTo('Customer')->first();
 	}
 }

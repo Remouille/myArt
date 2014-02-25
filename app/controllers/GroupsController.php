@@ -40,7 +40,9 @@ class GroupsController extends BaseController {
 	 */
 	public function show($id)
 	{
-        return View::make('groups.show');
+		// $data = array('users' => User::all());
+		$data = array('users' => Group::find(2)->users()->get(), 'artworks' => Group::find(2)->groupRates()->join('artworks','grouprates.artwork_id','=', 'artworks.id')->get() );
+        return View::make('groups.show', $data);
 	}
 
 	/**

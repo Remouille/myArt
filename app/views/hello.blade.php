@@ -3,6 +3,9 @@
 <head>
 	<meta charset="UTF-8">
 	<title>Laravel PHP Framework</title>
+	{{ HTML::style('css/bootstrap.css') }}
+	{{ HTML::style('css/main.css') }}
+	{{ HTML::script('js/bootstrap.js') }}
 	<style>
 		@import url(//fonts.googleapis.com/css?family=Lato:700);
 

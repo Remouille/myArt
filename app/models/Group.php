@@ -9,4 +9,9 @@ class Group extends Eloquent {
 	{
 		return $this->hasMany('User');
 	}
+
+	public function groupRates()
+	{
+		return $this->hasMany('Grouprate');	
+	}
 }

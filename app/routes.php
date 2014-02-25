@@ -13,7 +13,7 @@
 
 Route::get('/', function()
 {
-	return View::make('hello');
+	return View::make('main');
 });
 
 
@@ -24,7 +24,5 @@ Route::resource('groups', 'GroupsController');
 Route::resource('likes', 'LikesController');
 
 Route::resource('grouprates', 'GroupratesController');
-
-Route::resource('likes', 'LikesController');
 
 Route::resource('artworks', 'ArtworksController');
